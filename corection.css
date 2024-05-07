@@ -15,6 +15,7 @@ main{
     display: flex;
     height: 96vh;
     flex-direction: column;
+    
     border: solid black;
     --margin-bottom:15px;
 }
