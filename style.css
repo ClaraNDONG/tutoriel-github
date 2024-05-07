@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.white{
+    border: solid gray 3px;
+    display: flex;
+    flex-direction: column;
+}
+.menu{
+    margin: 10px;
+    flex: 1;
+    display: flex;
+}
+.logo{
+    border: solid black 2px;
+    background-color: white;
+    margin: 3px;
+    height: 10vh;
+    width: 15%;
+}
+.moteur{
+    border: solid black 1px;
+    background-color: rgba(0, 0, 0, 0.411);
+    margin: 3px;
+    height: 10vh;
+    width: 70%;
+    color: white;
+}
+.panier{
+    border: solid black 1px;
+    background-color: grey;
+    margin: 3px;
+    height: 10vh;
+    width: 15%;
+}
+.navigation{
+    background-color: gray;
+    margin: 10px;
+    height: 5vh;
+    border: solid black 1px;
+}
+.black{
+    margin: 10px;
+    flex: 1;
+    display: flex;
+}
+.black-left{
+    border: solid black 1px;
+    background-color: grey;
+    margin: 3px;
+    height: 30vh;
+    width: 15%;
+    color: white;
+}
+.black-medium{
+    border: solid black 1px;
+    background-color: rgb(64, 64, 68);
+    margin: 3px;
+    height: 25vh;
+    width: 70%; 
+    color: white;
+}
+.black-right{
+    border: solid black 1px;
+    background-color: rgb(230, 220, 220);
+    margin: 3px;
+    height: 30vh;
+    width: 15%;
+}
+.black-last{
+    margin: 10px;
+    flex: 1;
+    display: flex; 
+}
+.black-last-left{
+    border: solid black 1px;
+    background-color: rgb(230, 220, 220);
+    margin: 3px;
+    height: 20vh;
+    width: 15%; 
+}
+.black-last-medium{
+    border: solid black 1px;
+    background-color: grey;
+    margin: 3px;
+    height: 25vh;
+    width: 70%; 
+    margin-top: -35px;
+    color: white;
+}
+.black-last-right{
+    border: solid black 1px;
+    background-color: rgb(230, 220, 220);
+    margin: 3px;
+    height: 20vh;
+    width: 15%;    
+}
+.end{
+    background-color: white;
+    margin: 10px;
+    height: 5vh;
+    border: solid gray 2px;
+}
